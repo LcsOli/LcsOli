@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello, I'm Lucas
+
+👨🏼‍🎓 Computer Science student in my last semester.
+👨‍💻 Currently, I'm working in support, but in my free time, I study web and mobile development.
+💼 My goals are to improve my skills and secure a job in the development field.
+
+**Technologies**
+
+[![My Skills](https://skillicons.dev/icons?i=html,php,css,angular,nodejs,nestjs,typescript)](https://skillicons.dev)
+
+
 
 <!--
 **LcsOli/LcsOli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
