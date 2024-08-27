@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨🏼‍🎓 Computer Science student in my last semester.<br>👨‍💻 Currently, I'm working in support, but in my free time, I study web and mobile development.<br>💼 My goals are to improve my skills and secure a job in the development field.</p>
+<p align="left">👨🏼‍🎓Computer Science student in the final semester with a strong foundation in software development.<br>👨‍💻 Currently employed in a support role, where I apply technical problem-solving skills. In my spare time, I focus on advancing my knowledge in software development in general, including web development.<br>💼 My career goals include enhancing my technical skills and securing a position in the software development field.</p>
 
 ###
 
@@ -43,9 +43,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
   <img width="12" />
