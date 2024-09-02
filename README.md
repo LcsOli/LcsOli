@@ -10,11 +10,15 @@
 
 ###
 
-<p align="left">👨🏼‍🎓Computer Science student in the final semester with a strong foundation in software development.<br>👨‍💻 Currently employed in a support role, where I apply technical problem-solving skills. In my spare time, I focus on advancing my knowledge in software development in general, including web development.<br>💼 My career goals include enhancing my technical skills and securing a position in the software development field.</p>
+<p align="left">👨🏼‍🎓 Computer Science student in the final semester with a solid foundation in software development and practical experience in technical problem-solving.
+
+👨‍💻 Currently employed in a support role, where I apply technical skills to address challenges and improve solutions. In my spare time, I focus on expanding my knowledge in software development, particularly in web development.
+
+💼 Career goals: To enhance my technical skills and secure a challenging position in the software development field where I can contribute to innovative projects and continue my professional growth.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">🔧 Technologies I work with:</h2>
 
 ###
 
@@ -38,7 +42,7 @@
 
 ###
 
-<h2 align="left">I'm Studying</h2>
+<h2 align="left">📚 Currently studying:</h2>
 
 ###
 
@@ -47,9 +51,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
+  <img src="https://cdn.simpleicons.org/docker/FF2D20" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img src="https://cdn.simpleicons.org/amazonwebservices/FF2D20" height="40" alt="amazonwebservices logo"  />
 </div>
+
+<h3>I am open to opportunities that allow me to apply and expand my software development skills. If you’re looking for a passionate and dedicated developer, please get in touch!
+
+</h3>
 
 ###
