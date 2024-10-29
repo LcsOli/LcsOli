@@ -30,7 +30,8 @@
   <img src="https://cdn.simpleicons.org/docker/FF2D20" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/amazonwebservices/FF2D20" height="40" alt="amazonwebservices logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="40" alt="Oracle logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
