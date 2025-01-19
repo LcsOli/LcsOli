@@ -12,7 +12,7 @@
 
 <p align="left">👨🏼‍🎓 Computer Science student in the final semester, with a solid foundation in software development and practical experience in technical problem-solving.
 
-👨‍💻 Currently working as a junior developer, where I apply my technical skills to tackle challenges and improve solutions. In my spare time, I focus on expanding my knowledge in software development, with a particular emphasis on Java.
+👨‍💻 Currently working as a junior developer, where I apply my technical skills to tackle challenges and improve solutions. In my spare time, I focus on expanding my knowledge in software development.
 
 💼 Career goals: I am committed to continuous learning and aim to enhance my technical skills, with the goal of contributing to innovative projects and advancing in the field of software development.</p>
 
@@ -33,7 +33,7 @@
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="40" alt="Oracle logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="golang logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
