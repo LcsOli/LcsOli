@@ -1,49 +1,27 @@
 <h1 align="left">Hello, I'm Lucas</h1>
+<p align="left">From São José do Rio Preto, São Paulo, Brazil</p>
+<h2 align="left">About Me</h2>
+<p align="left"> 🎓 Bachelor's degree in Computer Science, with strong foundations in data structures, algorithms, and software engineering principles.<br><br>
+💻 Currently working as a Senior Software Developer, focusing on designing scalable back-end architectures, optimizing system performance, and ensuring code quality through best practices in clean code, testing, and automation.<br><br>
 
-###
+🚀 Passionate about continuous learning and staying up-to-date with new technologies, frameworks, and architectural patterns. Outside of work, I dedicate time to side projects, technical reading, and deepening my knowledge of cloud computing and distributed systems.<br><br>
 
-<p align="left">I'm from São Jose do Rio Preto, São Paulo, Brasil</p>
+</p>
+<h2 align="left">🔧 Technologies & Tools</h2>
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" /> <img width="12" /> <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="NestJS" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" /> <img width="12" /> <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" /> <img width="12" />  <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="40" alt="Oracle DB" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" /> </div>
+<h2 align="left">🧠 Main Skills</h2>
+Backend development using Java (Spring Boot) and Node.js (NestJS)
 
-###
+Frontend development with React and Angular
 
-<h2 align="left">About me</h2>
+RESTful APIs and microservices architecture
 
-###
+SQL/NoSQL database modeling and optimization
 
-<p align="left">👨🏼‍🎓 Computer Science student in the final semester, with a solid foundation in software development and practical experience in technical problem-solving.
+Containerization with Docker
 
-👨‍💻 Currently working as a junior developer, where I apply my technical skills to tackle challenges and improve solutions. In my spare time, I focus on expanding my knowledge in software development.
+CI/CD pipelines and software lifecycle automation
 
-💼 Career goals: I am committed to continuous learning and aim to enhance my technical skills, with the goal of contributing to innovative projects and advancing in the field of software development.</p>
+System troubleshooting and performance tuning
 
-###
-
-<h2 align="left">🔧 Technologies I work with:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/FF2D20" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonwebservices/FF2D20" height="40" alt="amazonwebservices logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="40" alt="Oracle logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="golang logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-</div>
-
-###
-
-<div align="left">
-
-</div>
-
-###
+Agile methodologies and team collaboration
